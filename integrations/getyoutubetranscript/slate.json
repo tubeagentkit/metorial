@@ -1,0 +1,13 @@
+{
+  "name": "@metorial/getyoutubetranscript",
+  "description": "Get YouTube video transcripts as plain text or timestamped segments, with title and channel. Search YouTube for videos or channels, list a channel's videos newest first, and list a playlist's videos, each with pagination. Check remaining API credits.",
+  "categories": ["apis-and-http-requests", "web-search"],
+  "skills": [
+    "get YouTube transcripts",
+    "get timestamped YouTube captions",
+    "search YouTube videos and channels",
+    "list YouTube channel videos",
+    "list YouTube playlist videos",
+    "check API credits"
+  ]
+}
